@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Play&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+
+
+.style-new-form{
+    width: 200px;
+    height: 30px;
+    background-color: red;
+    border-radius: 5px;
+}
+.current{
+    color: pink;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+.disable{
+    display: none;
+}
+.style.color{
+    color: #FFFFFF;
+}
+.new-div{
+    width: 100%;
+    height: auto;
+}
